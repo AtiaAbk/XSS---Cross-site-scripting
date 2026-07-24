@@ -268,6 +268,8 @@ Hands-on practice should **only** take place on legal, purpose-built platforms d
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
+> 🛡️ This repository exploits curiosity, not websites.
+
 ---
 
 ## ⚖️ Disclaimer
