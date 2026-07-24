@@ -1,1 +1,34 @@
 welcome to xss--educational journy
+
+
+XSS dork
+
+
+/?s= site:.in
+/search?q= site:.in
+/index.php?lang= site:.in
+/index.php?page= site:.in
+/search?query= site:.in
+/search?keyword= site:.in
+/search/?q= site:.in
+/connexion?redirect_uri= site:.in
+/?page= site:.in
+/search/?s= site:.in
+/?keywords= site:
+/search/?keyword= site:.in
+/search-results?q=
+inurl:".php?query="
+inurl:".php?searchstring="
+inurl:".php?keyword="
+inurl:".php?file="
+inurl:".php?years="
+inurl:".php?txt="
+page_details.php?menu_id=
+gallery.php?menu_id=
+inurl:".php?tag="
+inurl:".php?max="
+inurl:".php?from="
+inurl:".php?author="
+inurl:".php?pass="
+inurl:".php?feedback="
+ 
