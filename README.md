@@ -244,7 +244,7 @@ Hands-on practice should **only** take place on legal, purpose-built platforms d
 |---|---|
 | **[OWASP WebGoat](https://owasp.org/www-project-webgoat/)** | A deliberately insecure application maintained by OWASP for learning common web vulnerabilities in a safe, local environment |
 | **[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)** | A modern, intentionally vulnerable web application covering the OWASP Top 10, runnable locally via Docker |
-| **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** | A free, structured, hands-on learning platform with interactive labs specifically covering XSS and other vulnerability classes |
+| **[PortSwigger Web Security Academy]((https://portswigger.net/web-security/cross-site-scripting))** | A free, structured, hands-on learning platform with interactive labs specifically covering XSS and other vulnerability classes |
 | **[DVWA (Damn Vulnerable Web Application)](https://github.com/digininja/DVWA)** | A PHP/MySQL application intentionally vulnerable, intended for local lab use only |
 | **[bWAPP](http://www.itsecgames.com/)** | A free and open-source deliberately vulnerable web application for practicing a wide range of vulnerabilities |
 
