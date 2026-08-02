@@ -261,7 +261,7 @@ Hands-on practice should **only** take place on legal, purpose-built platforms d
 | PortSwigger Web Security Academy – XSS | [portswigger.net/web-security/cross-site-scripting](https://portswigger.net/web-security/cross-site-scripting) |
 | MDN Web Docs – Website Security | [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Security) |
 | CWE-79: Improper Neutralization of Input During Web Page Generation | [cwe.mitre.org/data/definitions/79.html](https://cwe.mitre.org/data/definitions/79.html) |
-| Practice and solve the lab on | [cwe.mitre.org/data/definitions/79.html]([https://cwe.mitre.org/data/definitions/79.html](https://portswigger.net/web-security/cross-site-scripting) |
+| Practice and solve the lab on | [https://cwe.mitre.org/data/definitions/79.html](https://portswigger.net/web-security/cross-site-scripting) |
 
 ---
 
