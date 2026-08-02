@@ -2,3 +2,5 @@ only for research and educational purposes
 
 Simulator: https://s4mc71.github.io/interactive-xss-simulator/
 materials for learning and practice : https://docs.google.com/document/d/1_BKeW6aN-0QpnWJLTExaXezgoUuTxNn38nY8m4lIAas/edit?tab=t.0#heading=h.242v9rxfpipv
+lab practice on portswigger 
+https://portswigger.net/web-security/cross-site-scripting
